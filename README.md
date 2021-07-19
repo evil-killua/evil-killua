@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Alexei 👋
+Novice Software Engineer with no commercial experience. I have a basic knowledge in backend development on Java.
 
-<!--
-**evil-killua/evil-killua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://www.linkedin.com/in/алексей-арабчик-302479207/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
 
-Here are some ideas to get you started:
+<p align='center'>
+   📫 How to reach me: <a href='mailto:arabchik.alex@gmail.com'>arabchik.alex@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Stack
+*   Java
+*   MySQL, PostgreSQL
+*   Spring Framework, Spring Boot, Spring Data Jpa, Spring Jdbc template, Spring MVC, Spring Security
+*   GitHub
