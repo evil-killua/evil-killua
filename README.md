@@ -14,4 +14,4 @@ Novice Software Engineer with no commercial experience. I have a basic knowledge
 *   Java
 *   PostgreSQL
 *   Spring Framework, Spring Boot, Spring Data, Spring MVC, Spring Security
-*   GitHub
+*   Git
